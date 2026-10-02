@@ -1,6 +1,6 @@
 cask "viji" do
-  version "1.1.1"
-  sha256 "727fae9ad9497116184c193707ff04dcf0c3b6b25f10f77ac29595fb5361871e"
+  version "1.1.2"
+  sha256 "eacf86cabad590bf9361cfa5438b5e951821b282cef50be86dfa696405b6e016"
 
   url "https://github.com/dalex160/Viji/releases/download/v#{version}/Viji.zip"
   name "Viji"
